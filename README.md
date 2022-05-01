@@ -4,7 +4,7 @@ Hi 👋 My name is Kerimberdi Agayev
 Web Dev and Ethical Hacker
 --------------------------
 
-Experienced Full Stack Developer with a demonstrated history of working in the computer software industry. Currently expanding knowledge in Cyber Security, especially on Exploit Development. Doing Masters on Cybersecurity. Loving the HTB. Roadmap: OSCP --> OSWE --> OSED
+Experienced Full Stack Developer with a demonstrated history of working in the computer software industry. Currently expanding knowledge in Cyber Security and Web3. Doing Masters on Cybersecurity. Building on NEAR blockchain. Roadmap: OSCP --> OSWE --> OSED
 
 * 🌍  I'm based in Romania, Bucharestt
 * 🖥️  See my portfolio at [kerimberdi.me](http://kerimberdi.me)
