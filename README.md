@@ -6,7 +6,7 @@ Web Dev and Ethical Hacker
 
 Experienced Full Stack Developer with a demonstrated history of working in the computer software industry. Currently expanding knowledge in Cyber Security and Web3. Doing Masters on Cybersecurity. Building on NEAR blockchain. Roadmap: OSCP --> OSWE --> OSED
 
-* 🌍  I'm based in Romania, Bucharestt
+* 🌍  I'm based in Romania, Bucharest
 * 🖥️  See my portfolio at [kerimberdi.me](http://kerimberdi.me)
 * ✉️  You can contact me at [akerimberdi@gmail.com](mailto:akerimberdi@gmail.com)
 * 🚀  I'm currently working on [Ecoland Project](http://ecoland.world)
