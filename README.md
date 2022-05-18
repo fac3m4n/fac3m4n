@@ -1,4 +1,4 @@
-Hi 👋 My name is Kerimberdi Agayev
+Hi 👋 I'm Kerim
 ==================================
 
 Web Dev and Ethical Hacker
