@@ -9,7 +9,7 @@ Experienced Full Stack Developer with a demonstrated history of working in the c
 * 🌍  I'm based in Romania, Bucharest
 * 🖥️  See my portfolio at [kerimberdi.me](http://kerimberdi.me)
 * ✉️  You can contact me at [akerimberdi@gmail.com](mailto:akerimberdi@gmail.com)
-* 🚀  I'm currently working on [ZooMemory NFT game](https://github.com/fac3m4n/zoo-landing) and [Ecoland Project](http://ecoland.world)
+* 🚀  I'm currently working on [Wolver.me](https://wolver.me) and [Ecoland Project](http://ecoland.world)
 * 🧠  I'm learning Web3 and Next.js
 * 🤝  I'm open to collaborating on Web Development and Penetration Testing
 
