@@ -10,7 +10,7 @@ Experienced Full Stack Developer with a demonstrated history of working in the c
 * 🖥️  See my portfolio at [kerimberdi.me](http://kerimberdi.me)
 * ✉️  You can contact me at [akerimberdi@gmail.com](mailto:akerimberdi@gmail.com)
 * 🚀  I'm currently working on [Wolver.me](https://wolver.me) and [Ecoland](http://ecoland.world)
-* 🧠  I'm learning Web3 and Next.js
+* 🧠  I'm learning Web3 and Svelte
 * 🤝  I'm open to collaborating on Web Development and Penetration Testing
 
 <a href="https://www.twitter.com/kevo_adler" target="_blank" rel="noreferrer"><img
