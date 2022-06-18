@@ -38,6 +38,7 @@ src="https://img.shields.io/twitter/follow/kevo_adler?logo=twitter&style=for-the
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+ <a href="https://tezos.com/" target="_blank" rel="noreferrer"><img src="https://cryptologos.cc/logos/tezos-xtz-logo.svg" width="36" height="36" alt="Tezos" /></a>
 <a href="https://near.academy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/near-colored.svg" width="36" height="36" alt="Near" /></a>
 </p>
 
