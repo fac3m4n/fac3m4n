@@ -1,16 +1,16 @@
 Hi 👋 I'm Kerim
 ==================================
 
-Web Dev and Ethical Hacker
+Web Dev, Ethical Hacker, Game Dev
 --------------------------
 
-Experienced Full Stack Developer with a demonstrated history of working in the computer software industry. Currently expanding knowledge in Cyber Security and Web3. Doing Masters on Cybersecurity. Building on NEAR blockchain. Roadmap: OSCP --> OSWE --> OSED
+Experienced Full Stack Developer with a demonstrated history of working in the computer software industry. Currently expanding knowledge in Cyber Security and Web3. Doing Masters on Cybersecurity and Game design. Building on EVM blockchains. Roadmap: OSCP --> OSWE --> OSED
 
 * 🌍  I'm based in Romania, Bucharest
 * 🖥️  See my portfolio at [kerimberdi.me](http://kerimberdi.me)
 * ✉️  You can contact me at [akerimberdi@gmail.com](mailto:akerimberdi@gmail.com)
-* 🚀  I'm currently working on [Wolver.me](https://wolver.me) and [Ecoland](http://ecoland.world)
-* 🧠  I'm learning Web3 and Svelte
+* 🚀  I'm currently working on [Ecoland](http://ecoland.world)
+* 🧠  I'm learning Web3, Svelte and Unity
 * 🤝  I'm open to collaborating on Web Development and Penetration Testing
 
 <a href="https://www.twitter.com/kevo_adler" target="_blank" rel="noreferrer"><img
