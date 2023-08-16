@@ -7,11 +7,10 @@ Web Dev, Ethical Hacker, Game Dev
 Experienced Full Stack Developer with a demonstrated history of working in the computer software industry. Currently expanding knowledge in Cyber Security and Web3. Doing Masters on Cybersecurity and Game design. Building on EVM blockchains. Roadmap: OSCP --> OSWE --> OSED
 
 * 🌍  I'm based in Romania, Bucharest
-* 🖥️  See my portfolio at [kerimberdi.me](http://kerimberdi.me)
 * ✉️  You can contact me at [akerimberdi@gmail.com](mailto:akerimberdi@gmail.com)
 * 🚀  I'm currently working on [Ecoland](http://ecoland.world) and [GamePayy](http://gamepayy.com)
-* 🧠  I'm learning Web3, Svelte and Unity
-* 🤝  I'm open to collaborating on Web Development and Penetration Testing
+* 🧠  I'm learning Web3
+* 🤝  I'm open to collaborating on Web Development
 
 <a href="https://www.twitter.com/kevo_adler" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kevo_adler?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
