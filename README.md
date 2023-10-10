@@ -1,7 +1,7 @@
 Hi 👋 I'm Kerim
 ==================================
 
-Web Dev, Ethical Hacker, Game Dev
+Web Dev, Ethical Hacker
 --------------------------
 
 Experienced Full Stack Developer with a demonstrated history of working in the computer software industry. Currently expanding knowledge in Cyber Security and Web3. Doing Masters on Cybersecurity and Game design. Building on EVM blockchains. Roadmap: OSCP --> OSWE --> OSED
