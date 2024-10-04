@@ -8,8 +8,8 @@ Experienced Full Stack Developer with a demonstrated history of working in the c
 
 * 🌍  I'm based in Romania, Bucharest
 * ✉️  You can contact me at [akerimberdi@gmail.com](mailto:akerimberdi@gmail.com)
-* 🚀  I'm currently working on [Ecoland](http://ecoland.world)
-* 🧠  I'm learning Web3 and CyberSec
+* 🚀  I'm currently working on building backend with Go
+* 🧠  I'm learning Go, Web3 and Cybersec
 * 🤝  I'm open to collaborating on Web Development and CyberSec
 
 <a href="https://www.twitter.com/kevo_adler" target="_blank" rel="noreferrer"><img
