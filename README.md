@@ -5,11 +5,11 @@ Hi 👋 I'm Kevo
 
 Senior Full Stack Dev at Cisco. Currently expanding knowledge in Cyber Security and Web3. Doing Masters on Advanced Cybersec, building on EVM blockchains. Occasionally participating in web3 hackathons. Interests: Gaming, Hacking, Blockchain, Startups 
 
-* 🌍  I'm based in Romania, Bucharest
-* ✉️  You can contact me at [akerimberdi@gmail.com](mailto:akerimberdi@gmail.com)
-* 🚀  I'm currently working on building backend with Go
-* 🧠  I'm learning Go, Web3 and Cybersec
-* 🤝  I'm open to collaborating on Web Development
+* 🌍  Based in Romania, Bucharest
+* ✉️  Contact me at [akerimberdi@gmail.com](mailto:akerimberdi@gmail.com)
+* 🚀  Currently working on building backend with Go
+* 🧠  Learning Go, Web3 and Cybersec
+* 🤝  Open to collaborating on Web Development
 
 <a href="https://www.twitter.com/kevo_adler" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kevo_adler?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
