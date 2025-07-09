@@ -1,10 +1,10 @@
 Hi 👋 I'm Kevo
 ==================================
 
-Web Dev, Ethical Hacker
+Gaming, Hacking, Blockchain, Startups 🕹️👾👨‍💻
 --------------------------
 
-Experienced Full Stack Developer with a demonstrated history of working in the computer software industry. Currently expanding knowledge in Cyber Security and Web3. Doing Masters on Advanced Cybersec. Building on EVM blockchains. Occasionally participating in web3 hackathons
+Senior Full Stack Dev at Cisco. Currently expanding knowledge in Cyber Security and Web3. Doing Masters on Advanced Cybersec, building on EVM blockchains. Occasionally participating in web3 hackathons. Interests: 
 
 * 🌍  I'm based in Romania, Bucharest
 * ✉️  You can contact me at [akerimberdi@gmail.com](mailto:akerimberdi@gmail.com)
