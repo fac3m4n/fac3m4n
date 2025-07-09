@@ -4,13 +4,13 @@ Hi 👋 I'm Kevo
 Web Dev, Ethical Hacker
 --------------------------
 
-Experienced Full Stack Developer with a demonstrated history of working in the computer software industry. Currently expanding knowledge in Cyber Security and Web3. Doing Masters on Cybersecurity and Game design. Building on EVM blockchains. Roadmap: OSCP --> OSWE --> OSED
+Experienced Full Stack Developer with a demonstrated history of working in the computer software industry. Currently expanding knowledge in Cyber Security and Web3. Doing Masters on Advanced Cybersec. Building on EVM blockchains. Occasionally participating in web3 hackathons
 
 * 🌍  I'm based in Romania, Bucharest
 * ✉️  You can contact me at [akerimberdi@gmail.com](mailto:akerimberdi@gmail.com)
 * 🚀  I'm currently working on building backend with Go
 * 🧠  I'm learning Go, Web3 and Cybersec
-* 🤝  I'm open to collaborating on Web Development and CyberSec
+* 🤝  I'm open to collaborating on Web Development
 
 <a href="https://www.twitter.com/kevo_adler" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kevo_adler?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
