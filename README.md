@@ -1,10 +1,9 @@
 Hi 👋 I'm Kevo
 ==================================
-
-Gaming, Hacking, Blockchain, Startups 🕹️👾👨‍💻
+🕹️👾👨‍💻
 --------------------------
 
-Senior Full Stack Dev at Cisco. Currently expanding knowledge in Cyber Security and Web3. Doing Masters on Advanced Cybersec, building on EVM blockchains. Occasionally participating in web3 hackathons. Interests: 
+Senior Full Stack Dev at Cisco. Currently expanding knowledge in Cyber Security and Web3. Doing Masters on Advanced Cybersec, building on EVM blockchains. Occasionally participating in web3 hackathons. Interests: Gaming, Hacking, Blockchain, Startups 
 
 * 🌍  I'm based in Romania, Bucharest
 * ✉️  You can contact me at [akerimberdi@gmail.com](mailto:akerimberdi@gmail.com)
